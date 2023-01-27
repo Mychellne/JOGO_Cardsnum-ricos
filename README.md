@@ -1,0 +1,1 @@
+# JOGO_Cardsnum-ricos
