@@ -1,0 +1,12 @@
+{
+	"Questions": [
+		
+		["Nível Difícl" , "Maria conversando com seu pai recebeu do mesmo o seguinte problema: Estou pensando em um número que ao quadrado e subtraindo com o próprio número é igual a 12. Qual possível número estou pensando?", "4,3,2,1", "4"],
+		 
+		 ["Nível Difícl" , "Qual dos números abaixo é raiz da equação x2 - 4 = 0", "1,2,3,4", "2"],
+		 ["Nível Difícl" , "Quais os valores de a, b e C respectivamente da equação: x2 – 9 = 0", "a = 1; b =0 e c = – 9,a = 1; b =-9 e c = 0,a = 1; b = 2 e c = – 9,a = 0; b =1 e c = -9", "a = 1; b =0 e c = – 9"],
+		  ["Nível Difícl" , "Para efetuar uma cobrança das corridas em seu taxi, Manoel usa a seguinte estratégia. 5 reais por cada quilometro rodado mais um valor fixo de 20 reais chamado por ele de pedágio. Qual a função do primeiro grau que melhor define a sua forma de cobrança?", "Y= 5x + 20,Y= 5x - 20,Y= 20x + 5,Y= 20x – 5", "Y= 5x + 20"],
+		   ["Nível Difícl" , "Para efetuar uma cobrança das corridas em seu taxi, Manoel usa a seguinte estratégia. 5 reais por cada quilometro rodado mais um valor fixo de 20 reais chamado por ele de pedágio. Qual o valor pago por uma pessoa se corrida tiver uma distância de 50 km?", "270 reais,250 reais,200 reais,170 reais", "270 reais"],		 
+		   ["Nível Difícl" , "Ana conversando com seu Avô recebeu do mesmo o seguinte problema: Estou pensando em um número que ao quadrado e somado com o próprio número é 12. Qual melhor define esse problema?", "X² + x = 12, X² + 2x = 12,X² - x = 10,X² - 2x = 12", "X² + x = 12"],
+		   ["Nível Difícl" , "Ana conversando com seu Avô recebeu do mesmo o seguinte problema: Estou pensando em um número que ao quadrado e somado com o próprio número é 12.Qual possível número estou pensando?", "3,2,1,0", "3"]]
+}

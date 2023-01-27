@@ -1,0 +1,9 @@
+{
+	"Questions": [
+		 ["Nível fácil" , "Dada a expressão 17-40:5. Qual será o resultado?", "12,8,4,9", "9"],
+
+		 ["Nível fácil" , "Mikesya está no supermercado com R$100,00. Comprou um bolo por R$50,00 e um refrigerante por R$10,00. Quanto ela gastou e quanto sobrou respectivamente?", "R$60.00 E R$50.00,R$60.00 E R$54.00,R$60.00 E R$40.00,R$60.00 E R$44.00", "R$60.00 E R$40.00"],
+		 
+		["Nível fácil" , "Nathaly foi ao salão de beleza fazer as unhas e também o cabelo. As unhas custaram R$15,00, já om cabelo custou R$250,00. Quanto Nathaly gastou?", "R$255.00,R$265.00,R$260.00,R$270.00", "R$265.00"]]
+}
+

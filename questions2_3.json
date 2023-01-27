@@ -1,0 +1,10 @@
+{
+	"Questions": [
+		 ["Nível Médio" , "Qual o resultado da expressão abaixo? √40/√5", "√5,2√2,2/3√3,2√3", "2√2"],
+		 
+		 ["Nível Médio" , "Racionalize o denominador da expressão abaixo e marque a alternativa correta,7√3/2√7", "√21/2,7√2/2,3√3/2,√7/3", "√21/2"],
+		
+		["Nível Médio" , "Qual a forma mais simples da expressão: √12+√75−9√3+√27+√48", "3√10,7√5,3√5,5√3", "5√3"],
+		
+		["Nível Médio" , "Qual é a forma de radical da potência com expoente fracionário a seguir.5²/³", "²√5³,³√5²,5√3²,³√2⁵", "³√5²"]]
+}

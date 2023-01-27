@@ -1,0 +1,17 @@
+{
+	"Questions": [ 
+		 ["Nível Difícl" , "Para efetuar a cobrança de cocos em sua barraca seu João usa a seguinte equação y= 2,5x onde x é a quantidade de cocos vendidos e y o valor a ser cobrado. Qual o valor ganho por seu João se ele vender 12 cocos?","10,20,30,40", "30"],
+		 
+		 ["Nível Difícl" , "Para efetuar a cobrança de cocos em sua barraca seu João usa a seguinte equação y= 2,5x onde x é a quantidade de cocos vendidos e y o valor a ser cobrado. Quantos cocos ele precisa vender para apurar 60 reais?", "12 cocos,18 cocos,20 cocos,24 cocos", "24 cocos"],
+		 
+		 ["Nível Difícl" , "Qual das equações abaixo é do 2o grau", "3x³+2x²+3=0,x³+x²−3=0,X²+2x-12=0,x+x=10", "X²+2x-12=0"],	
+	
+		 ["Nível Difícl" , "10-Qual das equações abaixo NÃO é do 2º grau", "3x²+2x+3=0,b¿x2−3=0,2x – 12=0,3x+x²=10", "2x – 12=0"],
+		 
+		 ["Nível Difícl" , "Quais os valores de a, b e C respectivamente da equação: 2x2 +4x – 6 = 0", "a = 2; b =4 e c = – 6,a = 8; b =5 e c = – 6,a = - 2; b = - 4 e c = – 6,a = 4; b =6 e c = 6", "a = 2; b =4 e c = – 6"],
+		 
+		 ["Nível Difícl" , "Qual das equações do 2o grau abaixo está na sua forma completa", "2x² +4x – 6 = 0,2x² – 6 = 0,2x² +4x = 0,x² +4x – 6 = 0", "2x² +4x – 6 = 0"],
+		  
+		  ["Nível Difícl" , "João conversando com seu tio recebeu do mesmo o problema seguinte: Estou imaginando em um número que ao quadrado e subtraindo 9 é igual a zero. Qual melhor equação define esse problema?", "X² - 9 = 0,X² - 9x = 0,X² - x = 0,9X² - x = 0", "X² - 9 = 0"]]
+		 
+}

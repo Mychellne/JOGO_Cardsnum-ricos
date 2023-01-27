@@ -1,0 +1,16 @@
+{
+	"Questions": [
+		 ["Nível Difícl" , "A solução da equação: 2x – 6 = 0", "1,2,3,4", "3"],
+		 
+		 ["Nível Difícl" , "A solução da equação: 5x – 30 = 0", "5,6,7,8", "6"],
+		 
+		 ["Nível Difícl" , "A solução da equação: 5x+1=− 9", "-1,-2,-3,-4", "-2"],
+		 
+		 ["Nível Difícl" , "O valor de y da equação: y = 2x – 5= 0, para x= 2 é?", "-1,-2,-3,-4", "-1"],
+		 
+		 ["Nível Difícl" , "O valor de y da equação: y = 10x + 5= 0, para x= - 1 é?", "-5,-4,-3,-2", "-5"],
+		 
+		 ["Nível Difícl" , "Para efetuar uma cobrança das corridas em seu táxi, Manoel usa a seguinte estratégia. 6 reais por quilômetro rodado mais um valor fixo de 25 reais, chamado por ele de pedágio. Qual a função do primeiro grau que melhor define a sua forma de cobrança?", "Y= 6x + 25,Y= 6x - 25,Y= 25x + 6,Y= 25x – 5", "Y= 6x + 25"]
+		 ]
+		 
+}
